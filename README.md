@@ -300,7 +300,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
  ## In Running State:
- ![WhatsApp Image 2023-08-11 at 4 21 01 PM](https://github.com/Pavan-Gv/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/94827772/9de9cf66-e204-4515-a77d-3b268ede768e)
+![WhatsApp Image 2023-08-11 at 8 47 41 PM](https://github.com/Pavan-Gv/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/94827772/f7969a20-4127-4e3e-ac53-2828f2dc24f0)
+
  
  
 ## Result :
