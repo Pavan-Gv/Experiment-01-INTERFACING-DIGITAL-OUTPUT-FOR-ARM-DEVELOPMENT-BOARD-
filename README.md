@@ -1,4 +1,4 @@
-<img width="685" alt="DL Course Maha" src="https://github.com/Pavan-Gv/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/94827772/9f85ed51-0c3b-4e51-ae94-598de9ed208e"># Experiment-01-INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
+# Experiment-01-INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
  
 
 ## Aim: To Interface a Digital output (LED) to ARM development board and write a blink code 
