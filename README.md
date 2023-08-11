@@ -1,4 +1,4 @@
-# Experiment-01-INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
+<img width="685" alt="DL Course Maha" src="https://github.com/Pavan-Gv/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/94827772/9f85ed51-0c3b-4e51-ae94-598de9ed208e"># Experiment-01-INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
  
 
 ## Aim: To Interface a Digital output (LED) to ARM development board and write a blink code 
@@ -295,7 +295,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
  ## In Off State:
- ![WhatsApp Image 2023-08-11 at 4 21 01 PM (1)](https://github.com/Pavan-Gv/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/94827772/bab4b933-e86d-44f6-8561-6d4aab88715a)
+![WhatsApp Image 2023-08-11 at 8 47 42 PM](https://github.com/Pavan-Gv/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/94827772/9e210e04-7fa4-4a19-a753-cc3918bd770d)
+
 
 
  ## In Running State:
