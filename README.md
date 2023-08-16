@@ -154,7 +154,7 @@ void assert_failed(uint8_t *file, uint32_t line)
  ## Case 1 : OFF State:
 <img width="250" alt="off r" src="https://github.com/Pavan-Gv/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/94827772/69c8cc1f-0948-472a-be01-ee18faf54241">
 
- ## Case 2 : Running State:
+ ## Case 2 : ON State:
  
 <img width="293" alt="on r" src="https://github.com/Pavan-Gv/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/94827772/7c6c6d1b-c142-440e-bf65-758e14d54333">
 
