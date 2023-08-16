@@ -79,7 +79,7 @@ The main features of LPC2148 include the following.
 ```
 Developed By: G Venkata Pavan Kumar
 RegNo.: 212221240013
-``
+```
 
 ## STM 32 CUBE PROGRAM :
 ```
